@@ -1,0 +1,5 @@
+resources
+output/**
+node_modules/**
+dist/**
+
